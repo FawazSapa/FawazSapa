@@ -16,4 +16,4 @@ Hello there! 👋 I'm Fawaz, a passionate software engineer with a knack for tur
 
 ### Want to be Friends?
 
-If you're passionate about AI as much as Iam or want to join me to help AI takeover humanity, I'd love to connect! Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/fawazsapa) for a chat.Together, we can turn ideas into reality and make a meaningful difference in the world of software. 🌟
+If you're passionate about AI as much as I'm or want to join me to help AI takeover humanity, I'd love to connect! Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/fawazsapa) for a chat.Together, we can turn ideas into reality and make a meaningful difference in the world of software. 🌟
