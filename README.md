@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm Fawaz, a passionate software engineer with a knack for turning ideas into reality through code. My journey in the world of technology has been fueled by curiosity, a relentless pursuit of excellence, and a deep love for AI and machine learning. 🚀
 
-### My Skillset(Befreind me to know more)
+### My Skillset (Befriend me to know more)
 
 - **Languages and Libraries**: From Assembly to Python 🐍, and everything in between, I thrive in the realm of programming. Whether it's crafting robust backend solutions or building intuitive user interfaces, I'm fluent in a diverse range of languages and libraries including Pandas, TensorFlow, React, and more.
 
@@ -14,6 +14,6 @@ Hello there! 👋 I'm Fawaz, a passionate software engineer with a knack for tur
 
 - Let me share a secret: Machine Learning is about getting the hyperparameters just right and model optimization.Sadly,its not evil algorithm sorcery 🧙‍♂️.....
 
-### Want to be Friends?
+### Want to be Chat?
 
 If you're passionate about AI as much as I'm or want to join me to help AI takeover humanity, I'd love to connect! Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/fawazsapa) for a chat.Together, we can turn ideas into reality and make a meaningful difference in the world of software. 🌟
