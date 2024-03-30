@@ -1,6 +1,6 @@
 ## Mysterious Figure Appears.................
 
-Hello there! 👋 I'm Fawaz, a passionate software engineer with a knack for turning ideas into reality through code. My journey in the world of technology has been fueled by curiosity, a relentless pursuit of excellence, and a deep love for AI and machine learning. 🚀
+Hello there! 👋 I'm Fawaz, a  software engineering student with coding being my guilty pleasure. My journey in the world of technology has been fueled by curiosity, a relentless pursuit of excellence, and a deep love for AI and machine learning. 🚀
 
 ### My Skillset (Befriend me to know more)
 
