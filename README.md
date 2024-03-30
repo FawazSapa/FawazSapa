@@ -14,6 +14,6 @@ Hello there! 👋 I'm Fawaz, a  software engineering student with coding being m
 
 - Let me share a secret: Machine Learning is about getting the hyperparameters just right and model optimization.Sadly,its not evil algorithm sorcery 🧙‍♂️.....
 
-### Want to be Chat?
+### Want to have a somewhat meaningful but fun conversation?
 
 If you're passionate about AI as much as I'm or want to join me to help AI takeover humanity, I'd love to connect! Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/fawazsapa) for a chat.Together, we can turn ideas into reality and make a meaningful difference in the world of software. 🌟
