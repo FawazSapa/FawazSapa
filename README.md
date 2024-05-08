@@ -1,23 +1,18 @@
 {
-"name": "Fawaz Sapa",
+name: "Fawaz Sapa",
+
+petName: "Scott",
 
 
-"petName": "Scott",
+reasonForThePetName: "I genuinely dont know",
+
+Title: "Mr. Debug Your Code",
 
 
-"reasonForThePetName": "I genuinely dont know",
+organizations: [{
 
 
-"Title": "Mr. Debug Your Code",
-
-
-"organizations": [
-
-
-{
-
-
-"name": "Seneca College"
+name: "Seneca College"
 
 
 }
@@ -26,10 +21,10 @@
 ],
 
 
-"social": {
+social: {
 
 
-"linkedIn":"[magicDataType](https://www.linkedin.com/in/fawazsapa/)"
+"linkedIn":[magicDataType](https://www.linkedin.com/in/fawazsapa/)
 
 
 },
@@ -50,7 +45,4 @@
 "C++",
 
 
-]
-
-
-}
+]}
