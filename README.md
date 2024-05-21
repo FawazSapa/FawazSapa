@@ -30,7 +30,7 @@
 },
 
 
-"favorite_lanaguages": [
+"favorite_languages": [
 
 
 "JavaScript",
@@ -42,7 +42,7 @@
 "C",
 
 
-"C++",
+"C++"
 
 
 ]}
