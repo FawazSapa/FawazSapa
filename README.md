@@ -1,18 +1,18 @@
 {
-name: "Fawaz Sapa",
+"name": "Fawaz Sapa",
 
-petName: "Scott",
-
-
-reasonForThePetName: "I genuinely dont know",
-
-Title: "Mr. Debug Your Code",
+"petName": "Scott",
 
 
-organizations: [{
+"reasonForThePetName": "I genuinely dont know",
+
+"Title": "Mr. Debug Your Code",
 
 
-name: "Seneca College"
+"organizations": [{
+
+
+"name": "Seneca College"
 
 
 }
@@ -21,7 +21,7 @@ name: "Seneca College"
 ],
 
 
-social: {
+"social": {
 
 
 "linkedIn":[magicDataType](https://www.linkedin.com/in/fawazsapa/)
