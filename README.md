@@ -26,7 +26,7 @@ This guy is still figuring out his missing `;`. But hey, life's a lot like codin
 
 - **AI Alchemist**: My theoretical knowledge of machine learning and AI is solid—like, "could probably pass a Voight-Kampff test " solid. I've also dabbled in the practical side, working with LLM frameworks like LlamaIndex and LangChain to create some seriously cool stuff.
 
-- **Debugging Detective**: Got a bug that's eluding you? Consider it caught. I've got a knack for tracking down even the most elusive issues, whether they're in code or lurking somewhere in the depths of a project.
+- **Debugging Detective**: Got a bug that's eluding you? Consider it caught. I've got a knack for tracking down even the most elusive issues.Even when I sleep, I debug in my dreams.
 
 ## The Fine Print
 
