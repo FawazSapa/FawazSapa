@@ -24,7 +24,7 @@ This guy is still figuring out his missing `;`. But hey, life's a lot like codin
 
 - **Cloud Commander**: Need to deploy something in the cloud? I've got the skills to tame AWS and Docker, ensuring your apps run smoother than a buttered server.
 
-- **AI Alchemist**: My theoretical knowledge of machine learning and AI is solid—like, "could probably pass a Turing test" solid. I've also dabbled in the practical side, working with LLM frameworks like LlamaIndex and LangChain to create some seriously cool stuff.
+- **AI Alchemist**: My theoretical knowledge of machine learning and AI is solid—like, "could probably pass a Voight-Kampff test " solid. I've also dabbled in the practical side, working with LLM frameworks like LlamaIndex and LangChain to create some seriously cool stuff.
 
 - **Debugging Detective**: Got a bug that's eluding you? Consider it caught. I've got a knack for tracking down even the most elusive issues, whether they're in code or lurking somewhere in the depths of a project.
 
