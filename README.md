@@ -14,19 +14,15 @@ This guy is still figuring out his missing `;`. But hey, life's a lot like codin
 
 ## Skills & Powers
 
-- **Languages**: Fluent in code, sarcasm, and occasional late-night ramblings.
   
-- **Special Abilities**: Turning coffee into code, solving mysteries like missing `;`, and making sense of chaos (most of the time).
-
 - **Web Wizardry**: I can conjure up web apps with the flick of a wrist (or a few lines of code) using frameworks like Next.js, Flask, Express, and Django. Frontend, backend—doesn't matter; it's all part of the magic.
 
-- **Microcontroller Maestro**: When it comes to programming microcontrollers, I'm practically a sorcerer. Whether it's C or C++, I make those little circuits dance to my tune.
+- **Robitics**:Blending machine learning and robotics is my jam—like the perfect, quirky combination of pineapple on pizza.
 
 - **Cloud Commander**: Need to deploy something in the cloud? I've got the skills to tame AWS and Docker, ensuring your apps run smoother than a buttered server.
 
 - **AI Alchemist**: My theoretical knowledge of machine learning and AI is solid—like, "could probably pass a Voight-Kampff test " solid. I've also dabbled in the practical side, working with LLM frameworks like LlamaIndex and LangChain to create some seriously cool stuff.
 
-- **Debugging Detective**: Got a bug that's eluding you? Consider it caught. I've got a knack for tracking down even the most elusive issues.Even when I sleep, I debug in my dreams.
 
 ## The Fine Print
 
