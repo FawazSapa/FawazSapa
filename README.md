@@ -2,11 +2,7 @@
 
 ## To Whomever It May Concern(Here's me trying to be funny, and no, it's not GPT-generated),
 
-This guy is still figuring out his missing `;`. But hey, life's a lot like coding—full of bugs, but you keep working until something breaks so bad that you get the motivation to fix it.
-
-## The Journey So Far
-  
-- **Current Quest**: I'm deep into the world of code, chasing down bugs, and building the next big thing (or at least trying to).I always convince myself that working on projects opens more doors than grinding through LeetCode. Haha!(I am doomed)
+  I'm deep into the world of code, chasing down bugs, and building the next big thing (or at least trying to).I always convince myself that working on projects opens more doors than grinding through LeetCode. Haha!(I am doomed)
 
 - **Side Quests**: When I'm not coding, you can find me exploring the latest tech trends, experimenting with my microcontroller, or diving into the occasional video game marathon. Oh, and trying to find something to watch.
 
@@ -19,4 +15,5 @@ This guy is still figuring out his missing `;`. But hey, life's a lot like codin
 - **Cloud**: Need to deploy something in the cloud? I've got the skills to tame AWS and Docker, ensuring your apps run smoother than a buttered server(courtesy of AWS).
 
 - **AI**: My theoretical knowledge of machine learning and AI is solid—like, "could probably pass that bladerunner test " solid. I've applied this expertise in content moderation, form optimization, and real-time object detection, all thanks to the powerful black-box magic of neural networks xd.
+
 
